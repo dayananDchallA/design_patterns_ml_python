@@ -1,4 +1,4 @@
-# design_patterns_ml_python
+# Design Patterns with Analogies
 
 Imagine you're building a house and you want it to have a nice, sturdy foundation. Instead of figuring out how to build that foundation from scratch, you use a blueprint that has been used successfully many times before. This blueprint is like a design pattern in programming.
 
