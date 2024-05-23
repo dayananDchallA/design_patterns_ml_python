@@ -38,8 +38,10 @@ Allows an object to pass a request along a chain of handlers until the request i
 Think of customer service where your query might be passed from a call center agent to a supervisor to a manager until someone resolves it. Each level in the chain has the opportunity to handle the request.
 
 ### 5. Adapter Pattern:
-Concept: Allows incompatible interfaces to work together by acting as a bridge between them.
-Analogy: Imagine you have an American plug and a European socket. An adapter allows you to plug your American device into the European socket, enabling them to work together despite their incompatible interfaces.
+#### Concept: 
+Allows incompatible interfaces to work together by acting as a bridge between them.
+#### Analogy: 
+Imagine you have an American plug and a European socket. An adapter allows you to plug your American device into the European socket, enabling them to work together despite their incompatible interfaces.
 
 ### 6. Strategy Pattern:
 #### Concept: 
