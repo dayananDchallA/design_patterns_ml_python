@@ -16,7 +16,7 @@ They also provide a common vocabulary for developers to use when discussing the 
 #### Concept: 
 Ensures a class has only one instance and provides a global point of access to it.
 
-### Analogy: 
+#### Analogy: 
 Imagine a global thermostat in a building. There's only one thermostat that controls the temperature for the entire building, ensuring consistency and preventing conflicts from multiple thermostats setting different temperatures.
 
 ### 2. Factory Pattern:
